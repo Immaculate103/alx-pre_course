@@ -1,1 +1,1 @@
-My first readme
+Full stack developer in training
