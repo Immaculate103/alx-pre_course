@@ -1,1 +1,1 @@
-full stack developer in training
+full stack developer
